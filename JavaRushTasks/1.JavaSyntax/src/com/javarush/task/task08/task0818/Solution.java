@@ -14,6 +14,7 @@ public class Solution {
 
     public static void removeItemFromMap(HashMap<String, Integer> map) {
         //напишите тут ваш код
+        System.out.println("blah blah blah");
     }
 
     public static void main(String[] args) {
